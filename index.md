@@ -1,4 +1,12 @@
 ## Welcome to GitHub Pages
+# This is the Goodelas website
+### Les meilleurs réductions autour de vous !
+
+Entrez votre Email, nous vous notifierons quand Goddeals est disponible.
+
+## Repérer les meilleurs plans autour de vous
+## Récupérer les réductions avec votre caméra
+## Payer facilement et en toute sécurité
 
 You can use the [editor on GitHub](https://github.com/YassineLETAIEF/goodeals.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
