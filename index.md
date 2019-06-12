@@ -2,7 +2,7 @@
 # This is the Goodelas website
 ### Les meilleurs réductions autour de vous !
 
-Entrez votre Email, nous vous notifierons quand Goddeals est disponible.
+Entrez votre Email, nous vous notifierons quand Goodeals est disponible.
 
 ## Repérer les meilleurs plans autour de vous
 ## Récupérer les réductions avec votre caméra
